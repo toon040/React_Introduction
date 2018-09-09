@@ -3,3 +3,5 @@
 *  $ npm install -g create-react-app
 ## Create first react
 *  $ create-react-app codecasterth-react
+## Run program
+*  $ npm start
